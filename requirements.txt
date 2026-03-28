@@ -1,0 +1,9 @@
+python-dotenv
+transformers
+torch
+gradio
+langchain
+langchain-community
+langchain-ibm
+ibm-watson-machine-learning
+librosa
